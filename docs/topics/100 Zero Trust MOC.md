@@ -10,4 +10,4 @@ links: [[000 Index]]
 - tbd
 
 ---
-links: [[000 Index]]]]
+links: [[000 Index]]

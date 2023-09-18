@@ -5,7 +5,7 @@ The Notes are based on the [[IMF Framework]] (get familiar with the concept firs
 
 ### Index Categories
 
-000s - [[000 Index|Index]]
+000s - [[000 Index|Index]], [[001 Links|Links]], [[002 Ideas|Ideas]]
 100s - [[100 Zero Trust MOC|Zero Trust MOC]]: zero trust
 
 ### Main Keywords
