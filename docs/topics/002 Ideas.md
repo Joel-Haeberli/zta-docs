@@ -1,6 +1,6 @@
 # Ideas
 
-links: [[000 Index]]
+links: [[000 Index|Index]]
 
 ---
 
@@ -11,8 +11,9 @@ links: [[000 Index]]
 	- SPIRE / SPIFFE: https://spiffe.io/
 - Service Mesh
 	- Cilium WireGuard/IPsec: https://docs.cilium.io/en/stable/security/network/encryption-wireguard/
+	- GatewayAPI
 	- Istio / Linkerd
 - SSO (OIDC)
 
 ---
-links: [[000 Index]]
+links: [[000 Index|Index]]

@@ -1,12 +1,12 @@
-tags: #zero-trust
+tags: #service-mesh
 
-# Zero Trust MOC
+# Service Mesh MOC
 
 links: [[000 Index|Index]]
 
 ---
 
-- [[Overview]]
+- tbd
 
 ---
 links: [[000 Index|Index]]
