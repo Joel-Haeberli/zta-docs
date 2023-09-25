@@ -1,6 +1,6 @@
 # Links
 
-links: [[000 Index]]
+links: [[000 Index|Index]]
 
 ---
 
@@ -16,6 +16,8 @@ links: [[000 Index]]
 **Application**
 
 - Styra Blog: https://www.styra.com/blog/zero-trust-with-envoy-spire-and-open-policy-agent-opa/
+- Cyberark Blog:  https://developer.cyberark.com/blog/avoiding-secret-zero-securely-introducing-secrets-with-conjur/
+- Supply Chain Zero Trust: https://github.com/sigstore/community/blob/main/docs/zero-trust-supply-chains.pdf
 ## Service Mesh
 
 **Theory**
@@ -23,4 +25,4 @@ links: [[000 Index]]
 - RedHat: https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
 
 ---
-links: [[000 Index]]
+links: [[000 Index|Index]]
