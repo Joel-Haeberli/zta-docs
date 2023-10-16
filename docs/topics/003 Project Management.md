@@ -11,6 +11,7 @@ links: [[000 Index|Index]]
 **Work Journals**
 
 - [[Work Journal JFU]]
+- [[Work Journal JHA]]
 
 ---
 links: [[000 Index|Index]]

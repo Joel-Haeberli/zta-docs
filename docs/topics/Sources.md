@@ -6,3 +6,4 @@
 - ^[4] Implementing a Zero Trust Architecture, NIST SPECIAL PUBLICATION 1800-35C, Draft 3 (https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
 - ^[5] Implementing a Zero Trust Architecture, NIST SPECIAL PUBLICATION 1800-35D, Draft 3 (https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
 - ^[6] Implementing a Zero Trust Architecture, NIST SPECIAL PUBLICATION 1800-35E, Draft 2 (https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture)
+- ^[7] Zero Trust Architecture Design Principles, UKNCSC (Github), (https://github.com/ukncsc/zero-trust-architecture)
