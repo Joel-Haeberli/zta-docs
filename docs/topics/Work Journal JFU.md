@@ -20,5 +20,15 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 5 hours
 - **Work**: Improve structure of documentation in Obsidian, Read documents, Create first overview about zero trust
 
+### W40 - Tuesday, 03.10.23
+
+- 3 hours
+- **Work**: Read documents
+
+### W41 - Monday, 25.09.23
+
+- 4 hours
+- **Work**: Read documents
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]

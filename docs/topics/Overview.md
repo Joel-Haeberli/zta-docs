@@ -15,7 +15,5 @@ A zero trust architecture is designed to prevent data breaches and limit interna
 
 ZT is not a single architecture but a set of guiding principles for workflow, system design and operations that can be used to improve the security posture. 
 
-
-
 ---
 links: [[000 Index|Index]] - [[100 Zero Trust MOC|Zero Trust MOC]]
