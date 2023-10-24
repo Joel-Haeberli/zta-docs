@@ -34,5 +34,23 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - **Meeting**
 - Present current standing and planning
 
+### W42
+#### Tuesday, 17.10.23
+
+- 3 hours
+- **Work**: NIST document, Tenets Zero Trust
+
+### W43
+#### Monday, 23.10.23
+
+- 2 hours
+- **Work**: Kubernetes Componentes & Object-API
+
+#### Tuesday, 24.10.23
+
+- 1 hour
+- **Work**: Kubernetes Componentes & Object-API
+
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
