@@ -20,5 +20,11 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 5 hours
 - **Work**: Improve structure of documentation in Obsidian, Read documents, Create first overview about zero trust
 
+Todo...
+### W43 - Thursday, 26.10.23
+
+- 5 hours
+- **Work**: Einlesung SPIFFE & SPIRE, Definition Deliverables
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
