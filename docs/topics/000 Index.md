@@ -9,6 +9,8 @@ The Notes are based on the [[IMF Framework]] (get familiar with the concept firs
 100s - [[100 Zero Trust MOC|Zero Trust MOC]]: zero trust
 200s - [[200 Service Mesh MOC|Service Mesh MOC]]: service mesh
 300s - [[300 Kubernetes MOC|kubernetes]]: kubernetes
+400s - [[400 Tools MOC|tools]]: tools we use 
+500s - [[500 Coding MOC|coding]]: everything related to coding
 ### Main Keywords
 
 - 100s - #zero-trust
