@@ -1,6 +1,6 @@
 tags: #journal
 
-# Meeting Notes 26.10.2023
+# Meeting Notes 27.10.2023
 
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 
@@ -22,11 +22,13 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 
 **Action points**
 
-- 
+- Verlorene Zeit nachholen in Blockwoche & Winterferien
 
 **Decisions**
 
-- 
+-  Plan B für SpringBoot Application (wenn Probleme im Cluster-Setup) -> local development mit SPIRE-Server z.B. in Docker möglich
+- Vorgehen so in Ordnung
+- Nächster Termin: Do, 09.11. um 16:30Uhr per Teams
 
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
