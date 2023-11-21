@@ -98,5 +98,16 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 1 hour
 - **Work**: Documentation of Kubernetes OS
 
+### W47
+
+**Monday, 20,11.23**
+- 1 hour
+- **Work**: Latex documentation (format, structure, makefile)
+
+**Tuesday, 21.11.23**
+- 2 hours
+- **Work**: Latex documentation (format yaml files, appendix, coloring), prepare meeting
+
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
