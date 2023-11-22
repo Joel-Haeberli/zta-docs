@@ -108,6 +108,9 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 2 hours
 - **Work**: Latex documentation (format yaml files, appendix, coloring), prepare meeting
 
+**Wednesday, 22.11.23**
+- 1 hours
+- **Work**: consultation and planning project with joel
 
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
