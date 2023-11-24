@@ -86,6 +86,31 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 5 hours
 - **Work**: Kubernetes IPv6 DualStack Finalisierung (Firewall, BGP, Loadbalancer IPs)
 
+**Friday, 17.11.23**
+- 10 hours
+- **Work**: Configure Latex Environment, Start with citation & structure of documentation, Read Blog from Cilium with Mutual Authentication, Enable Mutual Authentication on Cilium, Enable Transparent Encryption in Cilium
+
+**Saturday, 18.11.23**
+- 3 hours
+- **Work**: Latex Environment (Glossary, BibTex), Documentation of Kubernetes OS
+
+**Sunday, 19.11.23**
+- 1 hour
+- **Work**: Documentation of Kubernetes OS
+
+### W47
+
+**Monday, 20,11.23**
+- 1 hour
+- **Work**: Latex documentation (format, structure, makefile)
+
+**Tuesday, 21.11.23**
+- 2 hours
+- **Work**: Latex documentation (format yaml files, appendix, coloring), prepare meeting
+
+**Wednesday, 22.11.23**
+- 1 hours
+- **Work**: consultation and planning project with joel
 
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]

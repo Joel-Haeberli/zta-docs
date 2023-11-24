@@ -9,6 +9,7 @@ links: [[000 Index|Index]]
 - [[SPIFFE]]
 - [[SPIRE]]
 - [[OpenPolicyAgent]]
+- [[Cilium]]
 
 ---
 links: [[000 Index|Index]]

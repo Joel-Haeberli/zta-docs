@@ -18,6 +18,10 @@ links: [[000 Index|Index]]
 - Styra Blog: https://www.styra.com/blog/zero-trust-with-envoy-spire-and-open-policy-agent-opa/
 - Cyberark Blog:  https://developer.cyberark.com/blog/avoiding-secret-zero-securely-introducing-secrets-with-conjur/
 - Supply Chain Zero Trust: https://github.com/sigstore/community/blob/main/docs/zero-trust-supply-chains.pdf
+- Helmcharts Spiffe: https://github.com/spiffe/helm-charts-hardened/tree/main
+- Cilium Mutual Auth: https://github.com/cilium/design-cfps/blob/main/cilium/CFP-22215-mutual-auth-for-service-mesh.md
+- Blog: https://wso2.com/library/blogs/how-we-implemented-zero-trust-in-choreo/?utm_medium=email&_hsmi=282538770&utm_content=282538770&utm_source=hs_email
+
 ## Service Mesh
 
 **Theory**
