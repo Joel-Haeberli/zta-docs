@@ -10,6 +10,11 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 6 hours
 - **Work**: Initial search for information, setup docs repo, read first documents, discuss further work with Jan
 
+#### Wednesday, 20.09.23
+
+- 2 hours
+- **Work**: Meetup "Zero Trust with HashiCorp's CTO Armon Dadgar"
+
 #### Tuesday, 19.09.23
 
 - 2 hours
@@ -26,6 +31,11 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 
 - 2 hours
 - **Work**: Create project plan (Gantt, gitlab). Create gitlab project. 
+
+### W40
+
+- 4 hours
+- Reading NIST Documents
 
 ### W41
 #### Friday, 13.10.23
@@ -56,7 +66,8 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 5 hours
 - **Work**: SPIFFE / SPIRE / OpenPolicyAgent
 
-#### Monday, 30.10.23
+### W44
+#### Monday, 30.10.239
 
 - 3 hours
 - **Work**:
@@ -75,12 +86,77 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 	- Understand and implement basic setup of [[SPIRE]]
 	- Understand structure of the attestation mechanism documented here: [[SPIFFE]]
 
+### W45
+
 #### Monday, 06.11.23
 
 - 4 hours
 - **Work**:
 	- Make Agent and Server finally start with basic (default) config.
 	- Troubleshoot -> idiotstuff (yes each pod has its own IP... bravo!)
+
+#### Friday, 10.11.23
+
+- 1 Hour
+- **Meeting**:
+	- Todo until next time: 
+		- Report template ready
+		- Projectplan
+
+### W46 (Blockweek)
+
+#### Tuesday, 14.11.23 
+
+-  3 hours
+- **Work**:
+	- Plan: https://bernerfachhochschule-my.sharepoint.com/:x:/r/personal/habej2_bfh_ch/_layouts/15/Doc.aspx?sourcedoc=%7Be13507c3-f680-4b40-9cfa-542e1193bd82%7D&action=editnew
+	- Kanban Board: https://gitlab.ti.bfh.ch/groups/project-2-zero-trust/-/boards/2384
+
+#### Wednesday, 15.11.23
+
+- 3 hours
+- **Work**:
+	- latex report setup [report](https://gitlab.ti.bfh.ch/project-2-zero-trust/zta-report) 
+
+#### Thursday, 16.11.23
+
+- 6 hours
+- **Work**:
+	- setup authentik
+
+#### Sunday, 18.11.23
+
+- 3 hours
+- **Work**:
+	- merge jans stuff (report)
+	-  implement report structure
+
+### W47
+
+#### Monday, 20.11.23
+
+- 3 hours
+- **Work**
+	- project management
+	- zero trust discussion 
+	- zero trust definition
+
+#### Tuesday, 21.11.23
+
+- 3 hours
+- **Work**, Recherche und Betrachtung Situation Schweiz:
+	- file:///home/joel/Downloads/Technologiebetrachtung-Zero-Trust-Prinzip-DE.pdf
+	- file:///home/joel/Downloads/Si001-IT-Grundschutz_V5-0-d.pdf
+	- https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/technologiebetrachtung.html
+	- https://www.forrester.com/zero-trust/
+
+#### Wednesday, 22.11.23
+
+- 3 hours
+- **Work**:
+	- Spring Boot Starters
+	- https://www.baeldung.com/spring-boot-security-ssl-bundles
+
 
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]

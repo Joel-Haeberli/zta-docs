@@ -38,7 +38,7 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - **Work**: Einlesung in Zero Trust Themen der NIST & auf Kubernetes
 
 **Friday, 13.10.23**
-- 0.5 hours
+- 1 hour
 - **Meeting**: [[2023-10-13 Meeting Notes]]
 
 ### W42
