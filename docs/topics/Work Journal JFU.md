@@ -112,5 +112,9 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 - 1 hours
 - **Work**: consultation and planning project with joel
 
+**Friday, 24.11.23**
+- 1 hours
+- **Meeting**: [[2023-11-21 Meeting Notes]]
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
