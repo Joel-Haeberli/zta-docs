@@ -158,5 +158,56 @@ links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
 	- https://www.baeldung.com/spring-boot-security-ssl-bundles
 
 
+### W48
+#### Monday, 27.11.23
+
+- 3 hours
+- **Work**:
+	- Restructure Document
+	- Derive properties for principles
+	- Mess around with latex tables
+
+#### Tuesday, 28.11.23
+
+- 5 Hours
+-  **Work**:
+	- Gather properties from the Principles
+
+#### Thursday, 30.11.23
+
+- 5 hours
+-  **Work**:
+	- Try to match properties to tools of the CNCF Landscape
+	- Structure CNCF stuff
+	- Search for information about different tools
+	- Get to know Cilium
+
+### W49
+
+#### Monday, 04.12.23
+
+- 4 hours
+- **Work**:
+	- Tetragon (what are we doing??!)
+	- Prometheus
+
+#### Wednesday, 06.12.23
+
+- 6 hours
+- **Work**:
+	- Read and understand how the cluster is designed and how it works
+	- Setting up Teleport
+	- Draft for Authentik integration into Grafana
+	- Understanding Transparent Encryption (eBPF)
+
+#### Thursday, 07.12.23
+
+- 7 hours
+- **Work**
+	- Status Meeting
+	- Implement basic demo application
+		- Code
+		- Pipeline
+
 ---
 links: [[000 Index|Index]] - [[003 Project Management|Project Management]]
